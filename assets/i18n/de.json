@@ -1,0 +1,147 @@
+{
+  "common": {
+      "connect_wallet": "Wallet verbinden",
+      "swap": "Tauschen",
+      "market_cap": "Marktkapitalisierung",
+      "24Volume": "24H Volumen",
+      "last": "Letzte",
+      "trades": "Trades",
+      "filters": "Filter",
+      "maker": "Maker",
+      "buy": "Kaufen",
+      "sell": "Verkaufen",
+      "txns": "Transaktionen",
+      "cancelling": "Storniere",
+      "cancel": "Stornieren",
+      "order_failed": "Bestellung fehlgeschlagen",
+    "unknown": "Transaktion kann nicht abgeschlossen werden",
+      "token_list": {
+          "select_a_token": "Wählen Sie ein Token",
+          "description": "Sie können nach jedem Token im Cardexscan Swap suchen und auswählen.",
+          "placeholder": "Nach Token-Namen, Token-Symbol oder Policy-ID suchen"
+      }
+  },
+  "headerNav": {
+      "home": "Startseite",
+      "swap": "Tauschen",
+      "globaltrades": "Globale Trades",
+      "portfolio": "Portfolio",
+      "orders": "Bestellungen",
+      "team": "Team",
+      "api": "API",
+      "search_token": "Tokens suchen",
+      "connecting": "Verbinden",
+      "connect_a_wallet": "Wallet verbinden",
+      "connect_a_wallet_description": "Klicken Sie, um die Wallet zu verbinden oder zu ändern.",
+      "no_wallet_available": "Keine verfügbaren Wallets",
+      "disconnect_wallet": "Wallet trennen"
+  },
+  "banner": {
+      "mainTitle": "Cardexscan | Gateway zu Cardano DeFi",
+      "subTitle": "BESTE TAUSCHGESCHÄFTE. NIEDRIGSTE GEBÜHREN.",
+      "tradeCount": "Tausche"
+  },
+  "pages": {
+      "home": {
+          "top_gainers": "Top Gewinner",
+          "top_losers": "Top Verlierer",
+          "token_types": {
+              "trending": "Im Trend",
+              "all": "Alle",
+              "market_cap": "Marktkapitalisierung",
+              "snek_fun": "Snek.fun",
+              "new_launch": "Neuer Start"
+          },
+          "grid_cols": {
+              "token": "Token",
+              "price": "Preis",
+              "change": "Änderung",
+              "volume": "Volumen",
+              "txns": "Transaktionen",
+              "maker": "Maker",
+              "buy": "Kaufen",
+              "sell": "Verkaufen"
+          }
+      },
+      "globaltrades": {},
+      "orders": {
+          "orders": "Bestellungen",
+          "no_wallet_connection": "Bitte verbinden Sie Ihre Wallet, um Ihre Bestellungen anzuzeigen.",
+          "grid_cols": {
+              "pay": "Zahlen",
+              "receive": "Erhalten",
+              "dex": "Dex",
+              "status": "Status"
+          },
+          "order_cancelled": "Bestellung storniert",
+          "view_txn": "Transaktion anzeigen"
+      },
+      "portfolio": {
+          "no_wallet_connection": "Bitte verbinden Sie Ihre Wallet, um Ihr Portfolio anzuzeigen.",
+          "net_worth": "Nettovermögen",
+          "holdings": "Bestände (einschließlich NFTs)",
+          "ada_value": "Ada-Wert",
+          "portfolio": "Portfolio",
+          "grid_cols": {
+              "token": "Token",
+              "price": "Preis",
+              "holdings": "Bestände",
+              "overall_position": "Gesamtposition",
+              "asset_worth": "Vermögenswert"
+          }
+      },
+      "swap": {
+          "swap_title": "Schnelle Tauschgeschäfte, Niedrigste Gebühren!",
+          "live_chart": "Live-Chart",
+          "solo": "Solo",
+          "aggregator": "Aggregator",
+          "txn_settings": "Transaktionseinstellungen",
+          "cust_slippage": "Benutzerdefinierter Slippage",
+          "unlimited_slippage": "Unbegrenzter Slippage",
+          "you_sell": "Du verkaufst",
+          "you_get": "Du erhältst",
+          "routing": "Routing",
+          "fee_structure": "Gebührenstruktur",
+          "dex": "Dex",
+          "price_impact": "Preisimpact",
+          "batcher_fee": "Batcher-Gebühr",
+          "deposit_fee": "Einzahlung (zurückgegeben)",
+          "no_data_available": "Keine Daten verfügbar",
+          "cds_fee_msg": "Eine CDS-Gebühr von 0,96975 ADA wird erhoben.",
+          "no_pool_found": "Keine Pools gefunden",
+          "building_txn": "Transaktion wird erstellt...",
+          "powered_by": "Angetrieben von Cardexscan",
+          "order_placed": "Bestellung aufgegeben",
+          "view_order": "Bestellung anzeigen",
+          "view_txn": "Transaktion anzeigen",
+          "grid_cols": {
+              "age": "Alter",
+              "trade_type": "Handelsart",
+              "token": "Token",
+              "token_amount": "Token-Betrag",
+              "price_impact": "Preisimpact",
+              "ada_amount": "ADA-Betrag",
+              "price": "Preis",
+              "dex": "Dex",
+              "maker": "Maker",
+              "txn_time": "Transaktionszeit"
+          },
+          "grid_cols_maker": {
+              "top_makers": "Top Maker",
+              "buy": "Kaufen",
+              "sell": "Verkaufen",
+              "total_txns": "Gesamttransaktionen"
+          },
+          "no_trades_found": "Keine Trades gefunden",
+          "no_trades_found_in_last": "Keine Trades in den letzten gefunden"
+      }
+  },
+  "footer": {
+      "sub_title": "Eine DeFi-Plattform auf Cardano",
+      "made_with": "Gemacht mit",
+      "for_cardano": "für Cardano",
+      "contact_us": "Kontaktiere uns",
+      "social_links": "Soziale Links",
+      "imp_links": "Wichtige Links"
+  }
+}

@@ -1,0 +1,149 @@
+{
+    "common": {
+        "connect_wallet": "지갑 연결",
+        "swap": "스왑",
+        "market_cap": "시가 총액",
+        "24Volume": "24시간 거래량",
+        "last": "최근",
+        "trades": "거래",
+        "filters": "필터",
+        "maker": "메이커",
+        "buy": "구매",
+        "sell": "판매",
+        "txns": "거래 내역",
+        "cancelling": "취소 중",
+        "cancel": "취소",
+        "order_failed": "주문 실패",
+        "unknown": "거래를 완료할 수 없음",
+        "token_list": {
+            "select_a_token": "토큰 선택",
+            "description": "Cardexscan 스왑에서 토큰을 검색하고 선택할 수 있습니다.",
+            "placeholder": "토큰 이름, 토큰 심볼 또는 정책 ID로 검색"
+        }
+    },
+    "headerNav": {
+        "home": "홈",
+        "swap": "스왑",
+        "globaltrades": "글로벌 거래",
+        "portfolio": "포트폴리오",
+        "orders": "주문",
+        "team": "팀",
+        "api": "API",
+        "search_token": "토큰 검색",
+        "connecting": "연결 중",
+        "connect_a_wallet": "지갑 연결",
+        "connect_a_wallet_description": "클릭하여 지갑을 연결하거나 변경하세요.",
+        "no_wallet_available": "사용 가능한 지갑 없음",
+        "disconnect_wallet": "지갑 연결 해제"
+    },
+    "banner": {
+        "mainTitle": "Cardexscan | 카르다노 DeFi의 관문",
+        "subTitle": "최고의 스왑. 최저 수수료.",
+        "tradeCount": "스왑"
+    },
+    "pages": {
+        "home": {
+            "top_gainers": "최고 상승",
+            "top_losers": "최고 하락",
+            "token_types": {
+                "trending": "트렌드",
+                "all": "전체",
+                "market_cap": "시가 총액",
+                "snek_fun": "Snek.fun",
+                "new_launch": "신규 출시"
+            },
+            "grid_cols": {
+                "token": "토큰",
+                "price": "가격",
+                "change": "변동",
+                "volume": "거래량",
+                "txns": "거래 내역",
+                "maker": "메이커",
+                "buy": "구매",
+                "sell": "판매"
+            }
+        },
+        "globaltrades": {
+            "filters": "필터"
+        },
+        "orders": {
+            "orders": "주문",
+            "no_wallet_connection": "주문을 보려면 지갑을 연결하세요.",
+            "grid_cols": {
+                "pay": "지불",
+                "receive": "받기",
+                "dex": "Dex",
+                "status": "상태"
+            },
+            "order_cancelled": "주문 취소됨",
+            "view_txn": "거래 보기"
+        },
+        "portfolio": {
+            "no_wallet_connection": "포트폴리오를 보려면 지갑을 연결하세요.",
+            "net_worth": "순자산",
+            "holdings": "보유량 (NFT 포함)",
+            "ada_value": "에이다 가치",
+            "portfolio": "포트폴리오",
+            "grid_cols": {
+                "token": "토큰",
+                "price": "가격",
+                "holdings": "보유량",
+                "overall_position": "전체 포지션",
+                "asset_worth": "자산 가치"
+            }
+        },
+        "swap": {
+            "swap_title": "빠른 스왑, 최저 수수료!",
+            "live_chart": "실시간 차트",
+            "solo": "솔로",
+            "aggregator": "집계기",
+            "txn_settings": "거래 설정",
+            "cust_slippage": "사용자 정의 슬리피지",
+            "unlimited_slippage": "무제한 슬리피지",
+            "you_sell": "판매",
+            "you_get": "받기",
+            "routing": "라우팅",
+            "fee_structure": "수수료 구조",
+            "dex": "Dex",
+            "price_impact": "가격 영향",
+            "batcher_fee": "배처 수수료",
+            "deposit_fee": "예치금 (반환됨)",
+            "no_data_available": "데이터 없음",
+            "cds_fee_msg": "0.96975 ADA의 CDS 수수료가 부과됩니다.",
+            "no_pool_found": "풀 없음",
+            "building_txn": "거래 생성 중...",
+            "powered_by": "Cardexscan 제공",
+            "order_placed": "주문 완료",
+            "view_order": "주문 보기",
+            "view_txn": "거래 보기",
+            "grid_cols": {
+                "age": "기간",
+                "trade_type": "거래 유형",
+                "token": "토큰",
+                "token_amount": "토큰 양",
+                "price_impact": "가격 영향",
+                "ada_amount": "ADA 양",
+                "price": "가격",
+                "dex": "Dex",
+                "maker": "메이커",
+                "txn_time": "거래 시간"
+            },
+            "grid_cols_maker": {
+                "top_makers": "최고 메이커",
+                "buy": "구매",
+                "sell": "판매",
+                "total_txns": "총 거래"
+            },
+            "no_trades_found": "거래 없음",
+            "no_trades_found_in_last": "최근 거래 없음"
+        }
+    },
+    "footer": {
+        "sub_title": "카르다노의 DeFi 플랫폼",
+        "made_with": "제작",
+        "for_cardano": "카르다노를 위해",
+        "contact_us": "연락처",
+        "social_links": "소셜 링크",
+        "imp_links": "중요한 링크"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "common": {
+        "connect_wallet": "Kết nối Ví",
+        "swap": "Hoán đổi",
+        "market_cap": "Vốn hóa thị trường",
+        "24Volume": "Khối lượng 24H",
+        "last": "Cuối cùng",
+        "trades": "Giao dịch",
+        "filters": "Bộ lọc",
+        "maker": "Người tạo",
+        "buy": "Mua",
+        "sell": "Bán",
+        "txns": "Giao dịch",
+        "cancelling": "Đang hủy",
+        "cancel": "Hủy",
+        "order_failed": "A ordem falhou",
+    "unknown": "Não foi possível completar a transação",
+        "token_list": {
+            "select_a_token": "Chọn một token",
+            "description": "Bạn có thể tìm kiếm và chọn bất kỳ token nào trên Cardexscan swap.",
+            "placeholder": "Tìm kiếm theo tên token, ký hiệu token hoặc ID chính sách"
+        }
+    },
+    "headerNav": {
+        "home": "Trang chủ",
+        "swap": "Hoán đổi",
+        "globaltrades": "Giao dịch toàn cầu",
+        "portfolio": "Danh mục đầu tư",
+        "orders": "Đơn hàng",
+        "team": "Nhóm",
+        "api": "API",
+        "search_token": "Tìm kiếm Token",
+        "connecting": "Đang kết nối",
+        "connect_a_wallet": "Kết nối một ví",
+        "connect_a_wallet_description": "Nhấn để kết nối hoặc thay đổi ví.",
+        "no_wallet_available": "Không có ví nào khả dụng",
+        "disconnect_wallet": "Ngắt kết nối ví"
+    },
+    "banner": {
+        "mainTitle": "Cardexscan | Cổng vào Cardano DeFi",
+        "subTitle": "GIAO DỊCH TỐT NHẤT. PHÍ THẤP NHẤT.",
+        "tradeCount": "Giao dịch"
+    },
+    "pages": {
+        "home": {
+            "top_gainers": "Người chiến thắng hàng đầu",
+            "top_losers": "Người thua cuộc hàng đầu",
+            "token_types": {
+                "trending": "Xu hướng",
+                "all": "Tất cả",
+                "market_cap": "Vốn hóa thị trường",
+                "snek_fun": "Snek.fun",
+                "new_launch": "Ra mắt mới"
+            },
+            "grid_cols": {
+                "token": "Token",
+                "price": "Giá",
+                "change": "Thay đổi",
+                "volume": "Khối lượng",
+                "txns": "Giao dịch",
+                "maker": "Người tạo",
+                "buy": "Mua",
+                "sell": "Bán"
+            }
+        },
+        "globaltrades": {},
+        "orders": {
+            "orders": "Đơn hàng",
+            "no_wallet_connection": "Vui lòng kết nối ví của bạn để xem đơn hàng.",
+            "grid_cols": {
+                "pay": "Thanh toán",
+                "receive": "Nhận",
+                "dex": "Dex",
+                "status": "Trạng thái"
+            },
+            "order_cancelled": "Đơn hàng đã bị hủy",
+            "view_txn": "Xem giao dịch"
+        },
+        "portfolio": {
+            "no_wallet_connection": "Vui lòng kết nối ví của bạn để xem danh mục đầu tư.",
+            "net_worth": "Giá trị ròng",
+            "holdings": "Tài sản nắm giữ (bao gồm NFT)",
+            "ada_value": "Giá trị ADA",
+            "portfolio": "Danh mục đầu tư",
+            "grid_cols": {
+                "token": "Token",
+                "price": "Giá",
+                "holdings": "Tài sản nắm giữ",
+                "overall_position": "Vị trí tổng thể",
+                "asset_worth": "Giá trị tài sản"
+            }
+        },
+        "swap": {
+            "swap_title": "Hoán đổi nhanh, Phí thấp nhất!",
+            "live_chart": "Biểu đồ trực tiếp",
+            "solo": "Đơn lẻ",
+            "aggregator": "Tổng hợp",
+            "txn_settings": "Cài đặt giao dịch",
+            "cust_slippage": "Trượt giá tùy chỉnh",
+            "unlimited_slippage": "Trượt giá không giới hạn",
+            "you_sell": "Bạn bán",
+            "you_get": "Bạn nhận",
+            "routing": "Định tuyến",
+            "fee_structure": "Cấu trúc phí",
+            "dex": "Dex",
+            "price_impact": "Tác động giá",
+            "batcher_fee": "Phí tổng hợp",
+            "deposit_fee": "Tiền gửi (Được hoàn lại)",
+            "no_data_available": "Không có dữ liệu khả dụng",
+            "cds_fee_msg": "Phí CDS 0,96975 ADA sẽ được áp dụng.",
+            "no_pool_found": "Không tìm thấy Pool",
+            "building_txn": "Đang xây dựng giao dịch...",
+            "powered_by": "Được cung cấp bởi Cardexscan",
+            "order_placed": "Đơn hàng đã được đặt",
+            "view_order": "Xem đơn hàng",
+            "view_txn": "Xem giao dịch",
+            "grid_cols": {
+                "age": "Tuổi",
+                "trade_type": "Loại giao dịch",
+                "token": "Token",
+                "token_amount": "Số lượng token",
+                "price_impact": "Tác động giá",
+                "ada_amount": "Số lượng ADA",
+                "price": "Giá",
+                "dex": "Dex",
+                "maker": "Người tạo",
+                "txn_time": "Thời gian giao dịch"
+            },
+            "grid_cols_maker": {
+                "top_makers": "Người tạo hàng đầu",
+                "buy": "Mua",
+                "sell": "Bán",
+                "total_txns": "Tổng giao dịch"
+            },
+            "no_trades_found": "Không tìm thấy giao dịch",
+            "no_trades_found_in_last": "Không tìm thấy giao dịch trong lần cuối"
+        }
+    },
+    "footer": {
+        "sub_title": "Nền tảng DeFi trên Cardano",
+        "made_with": "Được làm với",
+        "for_cardano": "cho Cardano",
+        "contact_us": "Liên hệ với chúng tôi",
+        "social_links": "Liên kết xã hội",
+        "imp_links": "Liên kết quan trọng"
+    }
+}

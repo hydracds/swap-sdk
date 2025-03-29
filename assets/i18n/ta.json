@@ -1,0 +1,149 @@
+{
+    "common": {
+        "connect_wallet": "வாலட்டை இணைக்கவும்",
+        "swap": "இடமாற்றம்",
+        "market_cap": "மார்க்கெட் கேப்",
+        "24Volume": "24 மணி நேர தொகுதி",
+        "last": "கடைசி",
+        "trades": "வர்த்தகங்கள்",
+        "filters": "வடிப்பான்கள்",
+        "maker": "தயாரிப்பாளர்",
+        "buy": "வாங்க",
+        "sell": "விற்க",
+        "txns": "பரிவர்த்தனைகள்",
+        "cancelling": "ரத்து செய்யப்படுகிறது",
+        "cancel": "ரத்து செய்",
+        "order_failed": "ஆர்டர் தோல்வி",
+        "unknown": "பரிவர்த்தனையை முடிக்க முடியவில்லை",
+        "token_list": {
+            "select_a_token": "ஒரு டோக்கன் தேர்ந்தெடுக்கவும்",
+            "description": "Cardexscan இடமாற்றத்தில் எந்த டோக்கனையும் தேடலாம் மற்றும் தேர்ந்தெடுக்கலாம்.",
+            "placeholder": "டோக்கன் பெயர், டோக்கன் சின்னம் அல்லது கொள்கை ஐடி மூலம் தேடுக"
+        }
+    },
+    "headerNav": {
+        "home": "முகப்பு",
+        "swap": "இடமாற்றம்",
+        "globaltrades": "உலகளாவிய வர்த்தகங்கள்",
+        "portfolio": "போர்ட்ஃபோலியோ",
+        "orders": "ஆர்டர்கள்",
+        "team": "குழு",
+        "api": "API",
+        "search_token": "டோக்கன்களை தேடு",
+        "connecting": "இணைக்கிறது",
+        "connect_a_wallet": "வாலட்டை இணைக்கவும்",
+        "connect_a_wallet_description": "இணைக்க அல்லது மாற்ற கிளிக் செய்யவும்.",
+        "no_wallet_available": "வாலட் இல்லை",
+        "disconnect_wallet": "வாலட்டை துண்டிக்கவும்"
+    },
+    "banner": {
+        "mainTitle": "Cardexscan | கார்டானோ DeFi-க்கு நுழைவாயில்",
+        "subTitle": "சிறந்த இடமாற்றங்கள். குறைந்த கட்டணம்.",
+        "tradeCount": "இடமாற்றங்கள்"
+    },
+    "pages": {
+        "home": {
+            "top_gainers": "சிறந்த லாபம்",
+            "top_losers": "சிறந்த நஷ்டம்",
+            "token_types": {
+                "trending": "பிரபலமானது",
+                "all": "அனைத்தும்",
+                "market_cap": "மார்க்கெட் கேப்",
+                "snek_fun": "Snek.fun",
+                "new_launch": "புதிய வெளியீடு"
+            },
+            "grid_cols": {
+                "token": "டோக்கன்",
+                "price": "விலை",
+                "change": "மாற்றம்",
+                "volume": "தொகுதி",
+                "txns": "பரிவர்த்தனைகள்",
+                "maker": "தயாரிப்பாளர்",
+                "buy": "வாங்க",
+                "sell": "விற்க"
+            }
+        },
+        "globaltrades": {
+            "filters": "வடிப்பான்கள்"
+        },
+        "orders": {
+            "orders": "ஆர்டர்கள்",
+            "no_wallet_connection": "உங்கள் ஆர்டர்களைப் பார்க்க வாலட்டை இணைக்கவும்.",
+            "grid_cols": {
+                "pay": "செலுத்து",
+                "receive": "பெறு",
+                "dex": "Dex",
+                "status": "நிலை"
+            },
+            "order_cancelled": "ஆர்டர் ரத்து செய்யப்பட்டது",
+            "view_txn": "பரிவர்த்தனையைக் காண்க"
+        },
+        "portfolio": {
+            "no_wallet_connection": "உங்கள் போர்ட்ஃபோலியோவைப் பார்க்க வாலட்டை இணைக்கவும்.",
+            "net_worth": "நிகர மதிப்பு",
+            "holdings": "ஹோல்டிங்ஸ் (NFTs உட்பட)",
+            "ada_value": "Ada மதிப்பு",
+            "portfolio": "போர்ட்ஃபோலியோ",
+            "grid_cols": {
+                "token": "டோக்கன்",
+                "price": "விலை",
+                "holdings": "ஹோல்டிங்ஸ்",
+                "overall_position": "மொத்த நிலை",
+                "asset_worth": "சொத்து மதிப்பு"
+            }
+        },
+        "swap": {
+            "swap_title": "விரைவான இடமாற்றங்கள், குறைந்த கட்டணம்!",
+            "live_chart": "நேரடி விளக்கப்படம்",
+            "solo": "சோலோ",
+            "aggregator": "ஒருங்கிணைப்பான்",
+            "txn_settings": "பரிவர்த்தனை அமைப்புகள்",
+            "cust_slippage": "தனிப்பயன் சீட்டு",
+            "unlimited_slippage": "வரம்பற்ற சீட்டு",
+            "you_sell": "நீங்கள் விற்கிறீர்கள்",
+            "you_get": "நீங்கள் பெறுவீர்கள்",
+            "routing": "ரூட்டிங்",
+            "fee_structure": "கட்டண அமைப்பு",
+            "dex": "Dex",
+            "price_impact": "விலை தாக்கம்",
+            "batcher_fee": "பேட்சர் கட்டணம்",
+            "deposit_fee": "டெபாசிட் (திரும்பப் பெறப்பட்டது)",
+            "no_data_available": "தரவு இல்லை",
+            "cds_fee_msg": "0.96975 ADA CDS கட்டணம் விதிக்கப்படுகிறது.",
+            "no_pool_found": "பூல்கள் இல்லை",
+            "building_txn": "பரிவர்த்தனை உருவாக்கப்படுகிறது...",
+            "powered_by": "Cardexscan ஆல் இயக்கப்படுகிறது",
+            "order_placed": "ஆர்டர் வைக்கப்பட்டது",
+            "view_order": "ஆர்டரைக் காண்க",
+            "view_txn": "பரிவர்த்தனையைக் காண்க",
+            "grid_cols": {
+                "age": "வயது",
+                "trade_type": "வர்த்தக வகை",
+                "token": "டோக்கன்",
+                "token_amount": "டோக்கன் அளவு",
+                "price_impact": "விலை தாக்கம்",
+                "ada_amount": "ADA அளவு",
+                "price": "விலை",
+                "dex": "Dex",
+                "maker": "தயாரிப்பாளர்",
+                "txn_time": "பரிவர்த்தனை நேரம்"
+            },
+            "grid_cols_maker": {
+                "top_makers": "சிறந்த தயாரிப்பாளர்கள்",
+                "buy": "வாங்க",
+                "sell": "விற்க",
+                "total_txns": "மொத்த பரிவர்த்தனைகள்"
+            },
+            "no_trades_found": "வர்த்தகங்கள் இல்லை",
+            "no_trades_found_in_last": "சமீபத்தில் வர்த்தகங்கள் இல்லை"
+        }
+    },
+    "footer": {
+        "sub_title": "கார்டானோவில் ஒரு DeFi தளம்",
+        "made_with": "உருவாக்கப்பட்டது",
+        "for_cardano": "கார்டானோவுக்காக",
+        "contact_us": "எங்களைத் தொடர்பு கொள்ளவும்",
+        "social_links": "சமூக இணைப்புகள்",
+        "imp_links": "முக்கியமான இணைப்புகள்"
+    }
+}

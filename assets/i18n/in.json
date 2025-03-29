@@ -1,0 +1,149 @@
+{
+    "common": {
+        "connect_wallet": "वॉलेट कनेक्ट करें",
+        "swap": "स्वैप",
+        "market_cap": "मार्केट कैप",
+        "24Volume": "24 घंटे का वॉल्यूम",
+        "last": "अंतिम",
+        "trades": "ट्रेड्स",
+        "filters": "फिल्टर्स",
+        "maker": "मेकर",
+        "buy": "खरीदें",
+        "sell": "बेचें",
+        "txns": "ट्रांजेक्शन्स",
+        "cancelling": "कैंसल किया जा रहा है",
+        "cancel": "कैंसल",
+        "order_failed": "ऑर्डर फेल",
+        "unknown": "ट्रांजेक्शन पूरा नहीं हो सका",
+        "token_list": {
+            "select_a_token": "टोकन चुनें",
+            "description": "आप Cardexscan स्वैप पर किसी भी टोकन को खोज और चुन सकते हैं।",
+            "placeholder": "टोकन नाम, टोकन सिंबल या पॉलिसी आईडी से खोजें"
+        }
+    },
+    "headerNav": {
+        "home": "होम",
+        "swap": "स्वैप",
+        "globaltrades": "ग्लोबल ट्रेड्स",
+        "portfolio": "पोर्टफोलियो",
+        "orders": "ऑर्डर्स",
+        "team": "टीम",
+        "api": "API",
+        "search_token": "टोकन खोजें",
+        "connecting": "कनेक्ट हो रहा है",
+        "connect_a_wallet": "वॉलेट कनेक्ट करें",
+        "connect_a_wallet_description": "कनेक्ट या बदलने के लिए क्लिक करें।",
+        "no_wallet_available": "कोई वॉलेट उपलब्ध नहीं",
+        "disconnect_wallet": "वॉलेट डिस्कनेक्ट करें"
+    },
+    "banner": {
+        "mainTitle": "Cardexscan | कार्डानो DeFi का गेटवे",
+        "subTitle": "बेस्ट स्वैप्स। लोएस्ट फी।",
+        "tradeCount": "स्वैप्स"
+    },
+    "pages": {
+        "home": {
+            "top_gainers": "टॉप गेनर्स",
+            "top_losers": "टॉप लूजर्स",
+            "token_types": {
+                "trending": "ट्रेंडिंग",
+                "all": "सभी",
+                "market_cap": "मार्केट कैप",
+                "snek_fun": "Snek.fun",
+                "new_launch": "नया लॉन्च"
+            },
+            "grid_cols": {
+                "token": "टोकन",
+                "price": "कीमत",
+                "change": "परिवर्तन",
+                "volume": "वॉल्यूम",
+                "txns": "ट्रांजेक्शन्स",
+                "maker": "मेकर",
+                "buy": "खरीदें",
+                "sell": "बेचें"
+            }
+        },
+        "globaltrades": {
+            "filters": "फिल्टर्स"
+        },
+        "orders": {
+            "orders": "ऑर्डर्स",
+            "no_wallet_connection": "ऑर्डर्स देखने के लिए वॉलेट कनेक्ट करें।",
+            "grid_cols": {
+                "pay": "भुगतान",
+                "receive": "प्राप्त करें",
+                "dex": "Dex",
+                "status": "स्थिति"
+            },
+            "order_cancelled": "ऑर्डर कैंसल",
+            "view_txn": "ट्रांजेक्शन देखें"
+        },
+        "portfolio": {
+            "no_wallet_connection": "पोर्टफोलियो देखने के लिए वॉलेट कनेक्ट करें।",
+            "net_worth": "कुल संपत्ति",
+            "holdings": "होल्डिंग्स (NFTs शामिल)",
+            "ada_value": "एडा वैल्यू",
+            "portfolio": "पोर्टफोलियो",
+            "grid_cols": {
+                "token": "टोकन",
+                "price": "कीमत",
+                "holdings": "होल्डिंग्स",
+                "overall_position": "कुल पोजीशन",
+                "asset_worth": "संपत्ति की कीमत"
+            }
+        },
+        "swap": {
+            "swap_title": "फास्ट स्वैप्स, लोएस्ट फीस!",
+            "live_chart": "लाइव चार्ट",
+            "solo": "सोलो",
+            "aggregator": "एग्रीगेटर",
+            "txn_settings": "ट्रांजेक्शन सेटिंग्स",
+            "cust_slippage": "कस्टम स्लिपेज",
+            "unlimited_slippage": "अनलिमिटेड स्लिपेज",
+            "you_sell": "आप बेचें",
+            "you_get": "आपको मिलेगा",
+            "routing": "रूटिंग",
+            "fee_structure": "फीस स्ट्रक्चर",
+            "dex": "Dex",
+            "price_impact": "प्राइस इम्पैक्ट",
+            "batcher_fee": "बैचर फी",
+            "deposit_fee": "डिपॉजिट (वापस मिलेगा)",
+            "no_data_available": "डेटा उपलब्ध नहीं",
+            "cds_fee_msg": "0.96975 ADA का CDS फी लगता है।",
+            "no_pool_found": "कोई पूल नहीं मिला",
+            "building_txn": "ट्रांजेक्शन बनाया जा रहा है...",
+            "powered_by": "Cardexscan द्वारा संचालित",
+            "order_placed": "ऑर्डर प्लेस्ड",
+            "view_order": "ऑर्डर देखें",
+            "view_txn": "ट्रांजेक्शन देखें",
+            "grid_cols": {
+                "age": "समय",
+                "trade_type": "ट्रेड प्रकार",
+                "token": "टोकन",
+                "token_amount": "टोकन राशि",
+                "price_impact": "प्राइस इम्पैक्ट",
+                "ada_amount": "ADA राशि",
+                "price": "कीमत",
+                "dex": "Dex",
+                "maker": "मेकर",
+                "txn_time": "ट्रांजेक्शन समय"
+            },
+            "grid_cols_maker": {
+                "top_makers": "टॉप मेकर्स",
+                "buy": "खरीदें",
+                "sell": "बेचें",
+                "total_txns": "कुल ट्रांजेक्शन्स"
+            },
+            "no_trades_found": "कोई ट्रेड नहीं मिला",
+            "no_trades_found_in_last": "पिछले में कोई ट्रेड नहीं मिला"
+        }
+    },
+    "footer": {
+        "sub_title": "कार्डानो पर एक DeFi प्लेटफॉर्म",
+        "made_with": "बनाया गया",
+        "for_cardano": "कार्डानो के लिए",
+        "contact_us": "संपर्क करें",
+        "social_links": "सोशल लिंक्स",
+        "imp_links": "महत्वपूर्ण लिंक्स"
+    }
+}

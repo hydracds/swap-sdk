@@ -1,0 +1,147 @@
+{
+  "common": {
+      "connect_wallet": "Conectar Billetera",
+      "swap": "Intercambiar",
+      "market_cap": "Capitalización de Mercado",
+      "24Volume": "Volumen 24H",
+      "last": "Último",
+      "trades": "Intercambios",
+      "filters": "Filtros",
+      "maker": "Creador",
+      "buy": "Comprar",
+      "sell": "Vender",
+      "txns": "Transacciones",
+      "cancelling": "Cancelando",
+      "cancel": "Cancelar",
+      "order_failed": "La orden ha fallado",
+      "unknown": "No se puede completar la transacción",
+      "token_list": {
+          "select_a_token": "Seleccionar un token",
+          "description": "Puedes buscar y seleccionar cualquier token en el intercambio de Cardexscan.",
+          "placeholder": "Buscar por nombre de token, símbolo de token o ID de política"
+      }
+  },
+  "headerNav": {
+      "home": "Inicio",
+      "swap": "Intercambiar",
+      "globaltrades": "Intercambios Globales",
+      "portfolio": "Portafolio",
+      "orders": "Órdenes",
+      "team": "Equipo",
+      "api": "API",
+      "search_token": "Buscar Tokens",
+      "connecting": "Conectando",
+      "connect_a_wallet": "Conectar una billetera",
+      "connect_a_wallet_description": "Haz clic para conectar o cambiar la billetera.",
+      "no_wallet_available": "No hay Billeteras Disponibles",
+      "disconnect_wallet": "Desconectar Billetera"
+  },
+  "banner": {
+      "mainTitle": "Cardexscan | Puerta a Cardano DeFi",
+      "subTitle": "MEJORES INTERCAMBIOS. TARIFA MÁS BAJA.",
+      "tradeCount": "Intercambios"
+  },
+  "pages": {
+      "home": {
+          "top_gainers": "Principales Ganadores",
+          "top_losers": "Principales Perdedores",
+          "token_types": {
+              "trending": "Tendencia",
+              "all": "Todos",
+              "market_cap": "Capitalización de Mercado",
+              "snek_fun": "Snek.fun",
+              "new_launch": "Nuevo Lanzamiento"
+          },
+          "grid_cols": {
+              "token": "Token",
+              "price": "Precio",
+              "change": "Cambio",
+              "volume": "Volumen",
+              "txns": "Transacciones",
+              "maker": "Creador",
+              "buy": "Comprar",
+              "sell": "Vender"
+          }
+      },
+      "globaltrades": {},
+      "orders": {
+          "orders": "Órdenes",
+          "no_wallet_connection": "Por favor, conecta tu billetera para ver tus órdenes.",
+          "grid_cols": {
+              "pay": "Pagar",
+              "receive": "Recibir",
+              "dex": "Dex",
+              "status": "Estado"
+          },
+          "order_cancelled": "Orden cancelada",
+          "view_txn": "Ver Transacción"
+      },
+      "portfolio": {
+          "no_wallet_connection": "Por favor, conecta tu billetera para ver tu portafolio.",
+          "net_worth": "Valor Neto",
+          "holdings": "Tenencias (incluye NFTs)",
+          "ada_value": "Valor en Ada",
+          "portfolio": "Portafolio",
+          "grid_cols": {
+              "token": "Token",
+              "price": "Precio",
+              "holdings": "Tenencias",
+              "overall_position": "Posición General",
+              "asset_worth": "Valor de Activos"
+          }
+      },
+      "swap": {
+          "swap_title": "Intercambios Rápidos, ¡Tarifas Más Bajas!",
+          "live_chart": "Gráfico en Vivo",
+          "solo": "Solo",
+          "aggregator": "Agregador",
+          "txn_settings": "Configuraciones de Transacción",
+          "cust_slippage": "Deslizamiento Personalizado",
+          "unlimited_slippage": "Deslizamiento Ilimitado",
+          "you_sell": "Tú Vendes",
+          "you_get": "Tú Obtienes",
+          "routing": "Enrutamiento",
+          "fee_structure": "Estructura de Tarifas",
+          "dex": "Dex",
+          "price_impact": "Impacto en el Precio",
+          "batcher_fee": "Tarifa de Agrupador",
+          "deposit_fee": "Depósito (Devuelto)",
+          "no_data_available": "No hay datos disponibles",
+          "cds_fee_msg": "Se aplica una tarifa de CDS de 0.96975 ADA.",
+          "no_pool_found": "No se encontraron Grupos",
+          "building_txn": "Construyendo Transacción...",
+          "powered_by": "Desarrollado por Cardexscan",
+          "order_placed": "Orden colocada",
+          "view_order": "Ver Orden",
+          "view_txn": "Ver Transacción",
+          "grid_cols": {
+              "age": "Edad",
+              "trade_type": "Tipo de Intercambio",
+              "token": "Token",
+              "token_amount": "Cantidad de Token",
+              "price_impact": "Impacto en el Precio",
+              "ada_amount": "Cantidad de ADA",
+              "price": "Precio",
+              "dex": "Dex",
+              "maker": "Creador",
+              "txn_time": "Hora de Transacción"
+          },
+          "grid_cols_maker": {
+              "top_makers": "Mejores Creadores",
+              "buy": "Comprar",
+              "sell": "Vender",
+              "total_txns": "Total de Transacciones"
+          },
+          "no_trades_found": "No se encontraron Intercambios",
+          "no_trades_found_in_last": "No se encontraron Intercambios en el último"
+      }
+  },
+  "footer": {
+      "sub_title": "Una Plataforma DeFi en Cardano",
+      "made_with": "Hecho con",
+      "for_cardano": "para Cardano",
+      "contact_us": "Contáctanos",
+      "social_links": "Enlaces Sociales",
+      "imp_links": "Enlaces Importantes"
+  }
+}

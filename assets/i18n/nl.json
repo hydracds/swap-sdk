@@ -1,0 +1,147 @@
+{
+  "common": {
+      "connect_wallet": "Verbind Wallet",
+      "swap": "Wisselen",
+      "market_cap": "Marktkapitalisatie",
+      "24Volume": "24U Volume",
+      "last": "Laatste",
+      "trades": "Handelen",
+      "filters": "Filters",
+      "maker": "Maker",
+      "buy": "Kopen",
+      "sell": "Verkopen",
+      "txns": "Transacties",
+      "cancelling": "Annuleren",
+      "cancel": "Annuleren",
+      "order_failed": "Bestelling mislukt",
+    "unknown": "Kan transactie niet voltooien",
+      "token_list": {
+          "select_a_token": "Selecteer een token",
+          "description": "U kunt elk token op Cardexscan wisselen zoeken en selecteren.",
+          "placeholder": "Zoek op tokennaam, tokensymbool of beleids-ID"
+      }
+  },
+  "headerNav": {
+      "home": "Home",
+      "swap": "Wisselen",
+      "globaltrades": "Wereldwijde Handel",
+      "portfolio": "Portefeuille",
+      "orders": "Bestellingen",
+      "team": "Team",
+      "api": "API",
+      "search_token": "Zoek Tokens",
+      "connecting": "Verbinden",
+      "connect_a_wallet": "Verbind een wallet",
+      "connect_a_wallet_description": "Klik om de wallet te verbinden of te wijzigen.",
+      "no_wallet_available": "Geen beschikbare wallets",
+      "disconnect_wallet": "Verbreek verbinding met wallet"
+  },
+  "banner": {
+      "mainTitle": "Cardexscan | Gateway naar Cardano DeFi",
+      "subTitle": "BESTE WISSELINGEN. LAAGSTE KOSTEN.",
+      "tradeCount": "Wisselingen"
+  },
+  "pages": {
+      "home": {
+          "top_gainers": "Top Winnaars",
+          "top_losers": "Top Verliezers",
+          "token_types": {
+              "trending": "Trending",
+              "all": "Alle",
+              "market_cap": "Marktkapitalisatie",
+              "snek_fun": "Snek.fun",
+              "new_launch": "Nieuwe Lancering"
+          },
+          "grid_cols": {
+              "token": "Token",
+              "price": "Prijs",
+              "change": "Verandering",
+              "volume": "Volume",
+              "txns": "Transacties",
+              "maker": "Maker",
+              "buy": "Kopen",
+              "sell": "Verkopen"
+          }
+      },
+      "globaltrades": {},
+      "orders": {
+          "orders": "Bestellingen",
+          "no_wallet_connection": "Verbind uw wallet om uw bestellingen te bekijken.",
+          "grid_cols": {
+              "pay": "Betalen",
+              "receive": "Ontvangen",
+              "dex": "Dex",
+              "status": "Status"
+          },
+          "order_cancelled": "Bestelling geannuleerd",
+          "view_txn": "Bekijk Transactie"
+      },
+      "portfolio": {
+          "no_wallet_connection": "Verbind uw wallet om uw portefeuille te bekijken.",
+          "net_worth": "Netto Waarde",
+          "holdings": "Bezit (inclusief NFT's)",
+          "ada_value": "Ada Waarde",
+          "portfolio": "Portefeuille",
+          "grid_cols": {
+              "token": "Token",
+              "price": "Prijs",
+              "holdings": "Bezit",
+              "overall_position": "Totale Positie",
+              "asset_worth": "Waarde van Activa"
+          }
+      },
+      "swap": {
+          "swap_title": "Snelle Wisselingen, Laagste Kosten!",
+          "live_chart": "Live Grafiek",
+          "solo": "Solo",
+          "aggregator": "Aggregator",
+          "txn_settings": "Transactie-instellingen",
+          "cust_slippage": "Aangepaste Slippage",
+          "unlimited_slippage": "Onbeperkte Slippage",
+          "you_sell": "Jij Verkoopt",
+          "you_get": "Jij Krijgt",
+          "routing": "Routering",
+          "fee_structure": "Kostenstructuur",
+          "dex": "Dex",
+          "price_impact": "Prijsimpact",
+          "batcher_fee": "Batcher Kosten",
+          "deposit_fee": "Storting (Teruggegeven)",
+          "no_data_available": "Geen gegevens beschikbaar",
+          "cds_fee_msg": "Er wordt een CDS-kosten van 0,96975 ADA in rekening gebracht.",
+          "no_pool_found": "Geen Pools gevonden",
+          "building_txn": "Transactie aan het opbouwen...",
+          "powered_by": "Aangedreven door Cardexscan",
+          "order_placed": "Bestelling geplaatst",
+          "view_order": "Bekijk Bestelling",
+          "view_txn": "Bekijk Transactie",
+          "grid_cols": {
+              "age": "Leeftijd",
+              "trade_type": "Handelstype",
+              "token": "Token",
+              "token_amount": "Token Bedrag",
+              "price_impact": "Prijsimpact",
+              "ada_amount": "ADA Bedrag",
+              "price": "Prijs",
+              "dex": "Dex",
+              "maker": "Maker",
+              "txn_time": "Transactie Tijd"
+          },
+          "grid_cols_maker": {
+              "top_makers": "Top Makers",
+              "buy": "Kopen",
+              "sell": "Verkopen",
+              "total_txns": "Totaal Transacties"
+          },
+          "no_trades_found": "Geen Handel gevonden",
+          "no_trades_found_in_last": "Geen Handel gevonden in de laatste"
+      }
+  },
+  "footer": {
+      "sub_title": "Een DeFi Platform op Cardano",
+      "made_with": "Gemaakt met",
+      "for_cardano": "voor Cardano",
+      "contact_us": "Neem contact met ons op",
+      "social_links": "Sociale Links",
+      "imp_links": "Belangrijke Links"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "common": {
+      "connect_wallet": "连接钱包",
+      "swap": "交换",
+      "market_cap": "市值",
+      "24Volume": "24小时交易量",
+      "last": "最后",
+      "trades": "交易",
+      "filters": "过滤器",
+      "maker": "做市商",
+      "buy": "购买",
+      "sell": "出售",
+      "txns": "交易",
+      "cancelling": "正在取消",
+      "cancel": "取消",
+      "order_failed": "订单失败",
+    "unknown": "无法完成交易",
+      "token_list": {
+          "select_a_token": "选择一个代币",
+          "description": "您可以在Cardexscan交换中搜索并选择任何代币。",
+          "placeholder": "按代币名称、代币符号或政策ID搜索"
+      }
+  },
+  "headerNav": {
+      "home": "首页",
+      "swap": "交换",
+      "globaltrades": "全球交易",
+      "portfolio": "投资组合",
+      "orders": "订单",
+      "team": "团队",
+      "api": "API",
+      "search_token": "搜索代币",
+      "connecting": "连接中",
+      "connect_a_wallet": "连接钱包",
+      "connect_a_wallet_description": "点击连接或更换钱包。",
+      "no_wallet_available": "没有可用的钱包",
+      "disconnect_wallet": "断开钱包"
+  },
+  "banner": {
+      "mainTitle": "Cardexscan | Cardano DeFi的门户",
+      "subTitle": "最佳交换。最低费用。",
+      "tradeCount": "交换"
+  },
+  "pages": {
+      "home": {
+          "top_gainers": "涨幅最大",
+          "top_losers": "跌幅最大",
+          "token_types": {
+              "trending": "趋势",
+              "all": "全部",
+              "market_cap": "市值",
+              "snek_fun": "Snek.fun",
+              "new_launch": "新发行"
+          },
+          "grid_cols": {
+              "token": "代币",
+              "price": "价格",
+              "change": "变化",
+              "volume": "交易量",
+              "txns": "交易",
+              "maker": "做市商",
+              "buy": "购买",
+              "sell": "出售"
+          }
+      },
+      "globaltrades": {},
+      "orders": {
+          "orders": "订单",
+          "no_wallet_connection": "请连接您的钱包以查看您的订单。",
+          "grid_cols": {
+              "pay": "支付",
+              "receive": "接收",
+              "dex": "去中心化交易所",
+              "status": "状态"
+          },
+          "order_cancelled": "订单已取消",
+          "view_txn": "查看交易"
+      },
+      "portfolio": {
+          "no_wallet_connection": "请连接您的钱包以查看您的投资组合。",
+          "net_worth": "净资产",
+          "holdings": "持有资产（包括NFT）",
+          "ada_value": "ADA价值",
+          "portfolio": "投资组合",
+          "grid_cols": {
+              "token": "代币",
+              "price": "价格",
+              "holdings": "持有资产",
+              "overall_position": "整体头寸",
+              "asset_worth": "资产价值"
+          }
+      },
+      "swap": {
+          "swap_title": "快速交换，最低费用！",
+          "live_chart": "实时图表",
+          "solo": "单独",
+          "aggregator": "聚合器",
+          "txn_settings": "交易设置",
+          "cust_slippage": "自定义滑点",
+          "unlimited_slippage": "无限滑点",
+          "you_sell": "您出售",
+          "you_get": "您获得",
+          "routing": "路由",
+          "fee_structure": "费用结构",
+          "dex": "去中心化交易所",
+          "price_impact": "价格影响",
+          "batcher_fee": "批处理费用",
+          "deposit_fee": "存款（退还）",
+          "no_data_available": "没有可用数据",
+          "cds_fee_msg": "收取0.96975 ADA的CDS费用。",
+          "no_pool_found": "未找到池",
+          "building_txn": "正在构建交易...",
+          "powered_by": "由Cardexscan提供支持",
+          "order_placed": "订单已下达",
+          "view_order": "查看订单",
+          "view_txn": "查看交易",
+          "grid_cols": {
+              "age": "年龄",
+              "trade_type": "交易类型",
+              "token": "代币",
+              "token_amount": "代币数量",
+              "price_impact": "价格影响",
+              "ada_amount": "ADA数量",
+              "price": "价格",
+              "dex": "去中心化交易所",
+              "maker": "做市商",
+              "txn_time": "交易时间"
+          },
+          "grid_cols_maker": {
+              "top_makers": "顶级做市商",
+              "buy": "购买",
+              "sell": "出售",
+              "total_txns": "总交易"
+          },
+          "no_trades_found": "未找到交易",
+          "no_trades_found_in_last": "在最后未找到交易"
+      }
+  },
+  "footer": {
+      "sub_title": "Cardano上的DeFi平台",
+      "made_with": "制作于",
+      "for_cardano": "为Cardano",
+      "contact_us": "联系我们",
+      "social_links": "社交链接",
+      "imp_links": "重要链接"
+  }
+}

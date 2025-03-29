@@ -1,0 +1,149 @@
+{
+    "common": {
+        "connect_wallet": "Connect Wallet",
+        "swap": "Swap",
+        "market_cap": "Market Cap",
+        "24Volume": "24H Volume",
+        "last": "Last",
+        "trades": "Trades",
+        "filters": "Filters",
+        "maker": "Maker",
+        "buy": "Buy",
+        "sell": "Sell",
+        "txns": "Txns",
+        "cancelling": "Cancelling",
+        "cancel": "Cancel",
+        "order_failed": "Order failed",
+        "unknown": "Unable to complete transaction",
+        "token_list": {
+            "select_a_token": "Select a token",
+            "description": "You can search and select any token on Cardexscan swap.",
+            "placeholder": "Search by token name, token symbol or policy Id"
+        }
+    },
+    "headerNav": {
+        "home": "Home",
+        "swap": "Swap",
+        "globaltrades": "Global Trades",
+        "portfolio": "Portfolio",
+        "orders": "Orders",
+        "team": "Team",
+        "api": "API",
+        "search_token": "Search Tokens",
+        "connecting": "Connecting",
+        "connect_a_wallet": "Connect a wallet",
+        "connect_a_wallet_description": "Click to connect or change wallet.",
+        "no_wallet_available": "No Available Wallets",
+        "disconnect_wallet": "Disconnect Wallet"
+    },
+    "banner": {
+        "mainTitle": "Cardexscan | Gateway to Cardano DeFi",
+        "subTitle": "BEST SWAPS. LOWEST FEE.",
+        "tradeCount": "Swaps"
+    },
+    "pages": {
+        "home": {
+            "top_gainers": "Top Gainers",
+            "top_losers": "Top Losers",
+            "token_types": {
+                "trending": "Trending",
+                "all": "All",
+                "market_cap": "Market Cap",
+                "snek_fun": "Snek.fun",
+                "new_launch": "New Launch"
+            },
+            "grid_cols": {
+                "token": "Token",
+                "price": "Price",
+                "change": "Change",
+                "volume": "Volume",
+                "txns": "Txns",
+                "maker": "Maker",
+                "buy": "Buy",
+                "sell": "Sell"
+            }
+        },
+        "globaltrades": {
+            "filters": "Filters"
+        },
+        "orders": {
+            "orders": "Orders",
+            "no_wallet_connection": "Please connect your wallet to view your orders.",
+            "grid_cols": {
+                "pay": "Pay",
+                "receive": "Receive",
+                "dex": "Dex",
+                "status": "Status"
+            },
+            "order_cancelled": "Order cancelled",
+            "view_txn": "View Txn"
+        },
+        "portfolio": {
+            "no_wallet_connection": "Please connect your wallet to view your portfolio.",
+            "net_worth": "Net Worth",
+            "holdings": "Holdings (includes NFTs)",
+            "ada_value": "Ada Value",
+            "portfolio": "Portfolio",
+            "grid_cols": {
+                "token": "Token",
+                "price": "Price",
+                "holdings": "Holdings",
+                "overall_position": "Overall Position",
+                "asset_worth": "Asset Worth"
+            }
+        },
+        "swap": {
+            "swap_title": "Swift Swaps, Lowest Fees!",
+            "live_chart": "Live chart",
+            "solo": "Solo",
+            "aggregator": "Aggregator",
+            "txn_settings": "Transaction Settings",
+            "cust_slippage": "Custom Slippage",
+            "unlimited_slippage": "Unlimited Slippage",
+            "you_sell": "You Sell",
+            "you_get": "You Get",
+            "routing": "Routing",
+            "fee_structure": "Fee structure",
+            "dex": "Dex",
+            "price_impact": "Price Impact",
+            "batcher_fee": "Batcher Fee",
+            "deposit_fee": "Deposit (Returned)",
+            "no_data_available": "No data available",
+            "cds_fee_msg": "A CDS fee of 0.96975 ADA is levied.",
+            "no_pool_found": "No Pools found",
+            "building_txn": "Building Transaction...",
+            "powered_by": "Powered by Cardexscan",
+            "order_placed": "Order placed",
+            "view_order": "View Order",
+            "view_txn": "View Txn",
+            "grid_cols": {
+                "age": "Age",
+                "trade_type": "Trade Type",
+                "token": "Token",
+                "token_amount": "Token Amount",
+                "price_impact": "Price Impact",
+                "ada_amount": "ADA Amount",
+                "price": "Price",
+                "dex": "Dex",
+                "maker": "Maker",
+                "txn_time": "Txn Time"
+            },
+            "grid_cols_maker": {
+                "top_makers": "Top Maker",
+                "buy": "Buy",
+                "sell": "Sell",
+                "total_txns": "Total Txns"
+            },
+            "no_trades_found": "No Trades found",
+            "no_trades_found_in_last": "No Trades found in last"
+        }
+    },
+    "footer": {
+        "sub_title": "A DeFi Platform on Cardano",
+        "made_with": "Made with",
+        "for_cardano": "for Cardano",
+        "contact_us": "Contact us",
+        "social_links": "Social Links",
+        "imp_links": "Important Links"
+    }
+}

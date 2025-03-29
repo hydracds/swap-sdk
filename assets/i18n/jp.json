@@ -1,0 +1,147 @@
+{
+  "common": {
+      "connect_wallet": "ウォレットを接続",
+      "swap": "スワップ",
+      "market_cap": "時価総額",
+      "24Volume": "24時間の取引高",
+      "last": "最終",
+      "trades": "取引",
+      "filters": "フィルター",
+      "maker": "メイカー",
+      "buy": "購入",
+      "sell": "販売",
+      "txns": "取引",
+      "cancelling": "キャンセル中",
+      "cancel": "キャンセル",
+      "order_failed": "注文に失敗しました",
+    "unknown": "取引を完了できません",
+      "token_list": {
+          "select_a_token": "トークンを選択",
+          "description": "Cardexscanスワップで任意のトークンを検索して選択できます。",
+          "placeholder": "トークン名、トークンシンボル、またはポリシーIDで検索"
+      }
+  },
+  "headerNav": {
+      "home": "ホーム",
+      "swap": "スワップ",
+      "globaltrades": "グローバルトレード",
+      "portfolio": "ポートフォリオ",
+      "orders": "注文",
+      "team": "チーム",
+      "api": "API",
+      "search_token": "トークンを検索",
+      "connecting": "接続中",
+      "connect_a_wallet": "ウォレットを接続",
+      "connect_a_wallet_description": "ウォレットを接続または変更するにはクリックしてください。",
+      "no_wallet_available": "利用可能なウォレットはありません",
+      "disconnect_wallet": "ウォレットを切断"
+  },
+  "banner": {
+      "mainTitle": "Cardexscan | Cardano DeFiへのゲートウェイ",
+      "subTitle": "最高のスワップ。最低の手数料。",
+      "tradeCount": "スワップ"
+  },
+  "pages": {
+      "home": {
+          "top_gainers": "トップゲイナー",
+          "top_losers": "トップロサー",
+          "token_types": {
+              "trending": "トレンド",
+              "all": "すべて",
+              "market_cap": "時価総額",
+              "snek_fun": "Snek.fun",
+              "new_launch": "新規ローンチ"
+          },
+          "grid_cols": {
+              "token": "トークン",
+              "price": "価格",
+              "change": "変化",
+              "volume": "ボリューム",
+              "txns": "取引",
+              "maker": "メイカー",
+              "buy": "購入",
+              "sell": "販売"
+          }
+      },
+      "globaltrades": {},
+      "orders": {
+          "orders": "注文",
+          "no_wallet_connection": "注文を表示するにはウォレットを接続してください。",
+          "grid_cols": {
+              "pay": "支払い",
+              "receive": "受け取る",
+              "dex": "DEX",
+              "status": "ステータス"
+          },
+          "order_cancelled": "注文がキャンセルされました",
+          "view_txn": "取引を表示"
+      },
+      "portfolio": {
+          "no_wallet_connection": "ポートフォリオを表示するにはウォレットを接続してください。",
+          "net_worth": "純資産",
+          "holdings": "保有資産（NFTを含む）",
+          "ada_value": "ADAの価値",
+          "portfolio": "ポートフォリオ",
+          "grid_cols": {
+              "token": "トークン",
+              "price": "価格",
+              "holdings": "保有資産",
+              "overall_position": "全体のポジション",
+              "asset_worth": "資産の価値"
+          }
+      },
+      "swap": {
+          "swap_title": "迅速なスワップ、最低手数料！",
+          "live_chart": "ライブチャート",
+          "solo": "ソロ",
+          "aggregator": "アグリゲーター",
+          "txn_settings": "取引設定",
+          "cust_slippage": "カスタムスリッページ",
+          "unlimited_slippage": "無制限スリッページ",
+          "you_sell": "あなたが売る",
+          "you_get": "あなたが得る",
+          "routing": "ルーティング",
+          "fee_structure": "手数料構造",
+          "dex": "DEX",
+          "price_impact": "価格影響",
+          "batcher_fee": "バッチャー手数料",
+          "deposit_fee": "入金（返金）",
+          "no_data_available": "データが利用できません",
+          "cds_fee_msg": "0.96975 ADAのCDS手数料が課せられます。",
+          "no_pool_found": "プールが見つかりません",
+          "building_txn": "取引を構築中...",
+          "powered_by": "Cardexscanによって提供されています",
+          "order_placed": "注文が行われました",
+          "view_order": "注文を表示",
+          "view_txn": "取引を表示",
+          "grid_cols": {
+              "age": "年齢",
+              "trade_type": "取引タイプ",
+              "token": "トークン",
+              "token_amount": "トークンの量",
+              "price_impact": "価格影響",
+              "ada_amount": "ADAの量",
+              "price": "価格",
+              "dex": "DEX",
+              "maker": "メイカー",
+              "txn_time": "取引時間"
+          },
+          "grid_cols_maker": {
+              "top_makers": "トップメイカー",
+              "buy": "購入",
+              "sell": "販売",
+              "total_txns": "総取引"
+          },
+          "no_trades_found": "取引が見つかりません",
+          "no_trades_found_in_last": "最後の取引が見つかりません"
+      }
+  },
+  "footer": {
+      "sub_title": "CardanoのDeFiプラットフォーム",
+      "made_with": "作成者",
+      "for_cardano": "Cardanoのために",
+      "contact_us": "お問い合わせ",
+      "social_links": "ソーシャルリンク",
+      "imp_links": "重要なリンク"
+  }
+}

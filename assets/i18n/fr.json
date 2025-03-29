@@ -1,0 +1,149 @@
+{
+    "common": {
+        "connect_wallet": "Connecter le portefeuille",
+        "swap": "Échanger",
+        "market_cap": "Capitalisation boursière",
+        "24Volume": "Volume 24H",
+        "last": "Dernier",
+        "trades": "Échanges",
+        "filters": "Filtres",
+        "maker": "Créateur",
+        "buy": "Acheter",
+        "sell": "Vendre",
+        "txns": "Transactions",
+        "cancelling": "Annulation en cours",
+        "cancel": "Annuler",
+        "order_failed": "Échec de la commande",
+        "unknown": "Impossible de terminer la transaction",
+        "token_list": {
+            "select_a_token": "Sélectionner un jeton",
+            "description": "Vous pouvez rechercher et sélectionner n'importe quel jeton sur Cardexscan swap.",
+            "placeholder": "Rechercher par nom, symbole ou ID de politique"
+        }
+    },
+    "headerNav": {
+        "home": "Accueil",
+        "swap": "Échanger",
+        "globaltrades": "Échanges globaux",
+        "portfolio": "Portefeuille",
+        "orders": "Commandes",
+        "team": "Équipe",
+        "api": "API",
+        "search_token": "Rechercher des jetons",
+        "connecting": "Connexion en cours",
+        "connect_a_wallet": "Connecter un portefeuille",
+        "connect_a_wallet_description": "Cliquez pour connecter ou changer de portefeuille.",
+        "no_wallet_available": "Aucun portefeuille disponible",
+        "disconnect_wallet": "Déconnecter le portefeuille"
+    },
+    "banner": {
+        "mainTitle": "Cardexscan | Passerelle vers Cardano DeFi",
+        "subTitle": "MEILLEURS ÉCHANGES. FRAIS LES PLUS BAS.",
+        "tradeCount": "Échanges"
+    },
+    "pages": {
+        "home": {
+            "top_gainers": "Top Gagnants",
+            "top_losers": "Top Perdants",
+            "token_types": {
+                "trending": "Tendances",
+                "all": "Tous",
+                "market_cap": "Capitalisation",
+                "snek_fun": "Snek.fun",
+                "new_launch": "Nouveau lancement"
+            },
+            "grid_cols": {
+                "token": "Jeton",
+                "price": "Prix",
+                "change": "Changement",
+                "volume": "Volume",
+                "txns": "Transactions",
+                "maker": "Créateur",
+                "buy": "Acheter",
+                "sell": "Vendre"
+            }
+        },
+        "globaltrades": {
+            "filters": "Filtres"
+        },
+        "orders": {
+            "orders": "Commandes",
+            "no_wallet_connection": "Veuillez connecter votre portefeuille pour voir vos commandes.",
+            "grid_cols": {
+                "pay": "Payer",
+                "receive": "Recevoir",
+                "dex": "Dex",
+                "status": "Statut"
+            },
+            "order_cancelled": "Commande annulée",
+            "view_txn": "Voir la transaction"
+        },
+        "portfolio": {
+            "no_wallet_connection": "Veuillez connecter votre portefeuille pour voir votre portefeuille.",
+            "net_worth": "Valeur nette",
+            "holdings": "Possessions (NFTs inclus)",
+            "ada_value": "Valeur ADA",
+            "portfolio": "Portefeuille",
+            "grid_cols": {
+                "token": "Jeton",
+                "price": "Prix",
+                "holdings": "Possessions",
+                "overall_position": "Position globale",
+                "asset_worth": "Valeur de l'actif"
+            }
+        },
+        "swap": {
+            "swap_title": "Échanges rapides, frais les plus bas !",
+            "live_chart": "Graphique en direct",
+            "solo": "Solo",
+            "aggregator": "Agrégateur",
+            "txn_settings": "Paramètres de transaction",
+            "cust_slippage": "Glissement personnalisé",
+            "unlimited_slippage": "Glissement illimité",
+            "you_sell": "Vous vendez",
+            "you_get": "Vous recevez",
+            "routing": "Routage",
+            "fee_structure": "Structure des frais",
+            "dex": "Dex",
+            "price_impact": "Impact sur le prix",
+            "batcher_fee": "Frais de traitement",
+            "deposit_fee": "Dépôt (Remboursé)",
+            "no_data_available": "Aucune donnée disponible",
+            "cds_fee_msg": "Des frais CDS de 0.96975 ADA sont appliqués.",
+            "no_pool_found": "Aucun pool trouvé",
+            "building_txn": "Construction de la transaction...",
+            "powered_by": "Propulsé par Cardexscan",
+            "order_placed": "Commande passée",
+            "view_order": "Voir la commande",
+            "view_txn": "Voir la transaction",
+            "grid_cols": {
+                "age": "Âge",
+                "trade_type": "Type d'échange",
+                "token": "Jeton",
+                "token_amount": "Montant du jeton",
+                "price_impact": "Impact sur le prix",
+                "ada_amount": "Montant ADA",
+                "price": "Prix",
+                "dex": "Dex",
+                "maker": "Créateur",
+                "txn_time": "Heure de la transaction"
+            },
+            "grid_cols_maker": {
+                "top_makers": "Top Créateurs",
+                "buy": "Acheter",
+                "sell": "Vendre",
+                "total_txns": "Total des transactions"
+            },
+            "no_trades_found": "Aucun échange trouvé",
+            "no_trades_found_in_last": "Aucun échange trouvé récemment"
+        }
+    },
+    "footer": {
+        "sub_title": "Une plateforme DeFi sur Cardano",
+        "made_with": "Fait avec",
+        "for_cardano": "pour Cardano",
+        "contact_us": "Contactez-nous",
+        "social_links": "Liens sociaux",
+        "imp_links": "Liens importants"
+    }
+}
