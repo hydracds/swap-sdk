@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <script src="https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v0.0.4/core.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v0.0.5/core.js"></script>
         <script>
-            const sdk = new cdsSDK();
+            const sdk = new cdsSDK({version: '0.0.5'});
             sdk.load().then(() => {
                 const component = document.createElement('cardexscan-swap');
                 component.swap = {
