@@ -3,8 +3,8 @@ class cdsSDK {
     constructor(options = {}) {
       this.options = {
         componentName: 'cardexscan-swap-root',
-        scriptUrl: `https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v${options.version || '0.0.4'}/widget.js`,
-        styleUrl: `https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v${options.version || '0.0.4'}/styles.css`,
+        scriptUrl: `https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v${options.version || '0.0.6'}/widget.js`,
+        styleUrl: `https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v${options.version || '0.0.6'}/styles.css`,
         version: 'latest',
         ...options
       };
