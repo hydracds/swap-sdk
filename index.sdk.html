@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <script src="https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v0.0.5/core.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/hydracds/swap-sdk@v0.0.6/core.js"></script>
         <script>
-            const sdk = new cdsSDK({version: '0.0.5'});
+            const sdk = new cdsSDK({version: '0.0.6'});
             sdk.load().then(() => {
-                const component = document.createElement('cardexscan-swap');
+                const component = document.createElement('cardexscan-swap-root');
                 component.swap = {
                                                     "tokenInAmount": 1000,
                                                     "slippage": 1,
@@ -24,7 +24,8 @@
                                                         "SPECTRUM"
                                                     ]
                                                     };
-                component.config = { pairChangeAllowed: true, initSwapRequestOnLoad: false };
+                component.config = { pairChangeAllowed: true };
+                component.partnerId = "CDS1_9a67b631a12e576d8bc6bbfd51bda364";
                 document.getElementById("swap-cntr").appendChild(component);
             });
         </script>
